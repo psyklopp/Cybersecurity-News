@@ -15,3 +15,4 @@ Information should be open and easily accessible. Hence I bring you this reposit
 3. [Dark Reading](https://www.darkreading.com/)
 4. [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/)
 5. [SecurityWeek](https://www.securityweek.com/)
+6. [MSSP Alert](https://www.msspalert.com/)
