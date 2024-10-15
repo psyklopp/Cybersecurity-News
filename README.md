@@ -16,3 +16,4 @@ Information should be open and easily accessible. Hence I bring you this reposit
 4. [Cybersecurity Insiders](https://www.cybersecurity-insiders.com/)
 5. [SecurityWeek](https://www.securityweek.com/)
 6. [MSSP Alert](https://www.msspalert.com/)
+7. [The Register](https://www.theregister.com/security/)
