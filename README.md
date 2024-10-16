@@ -8,7 +8,7 @@ Not everyone can afford such services.
 
 Information should be open and easily accessible. Hence I bring you this repository.
 
-----
+## News Portals
 
 1. [The Hacker News](https://thehackernews.com/)
 2. [Cyber Security News](https://cybersecuritynews.com/)
@@ -17,3 +17,8 @@ Information should be open and easily accessible. Hence I bring you this reposit
 5. [SecurityWeek](https://www.securityweek.com/)
 6. [MSSP Alert](https://www.msspalert.com/)
 7. [The Register](https://www.theregister.com/security/)
+
+
+## Blogs
+
+1. [Hunt.io](https://hunt.io/blog) - Threat hunting
