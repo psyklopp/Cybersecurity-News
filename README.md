@@ -19,6 +19,7 @@ Information should be open and easily accessible. Hence I bring you this reposit
 7. [The Register](https://www.theregister.com/security/)
 8. [Reuters](https://www.reuters.com/technology/cybersecurity/)
 9. [Ars Technica](https://arstechnica.com/security/)
+10. [IBM - Security Intelligence](https://securityintelligence.com/)
 
 
 ## Blogs
