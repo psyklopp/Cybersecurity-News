@@ -26,3 +26,4 @@ Information should be open and easily accessible. Hence I bring you this reposit
 ## Blogs
 
 1. [Hunt.io](https://hunt.io/blog) - Threat hunting
+2. [Infostealers.com by Hudson Rock](https://www.infostealers.com/) - The all-around hub with news and publications about Infostealers.
