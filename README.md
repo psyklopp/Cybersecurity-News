@@ -21,7 +21,7 @@ Information should be open and easily accessible. Hence I bring you this reposit
 9. [Ars Technica](https://arstechnica.com/security/)
 10. [IBM - Security Intelligence](https://securityintelligence.com/)
 11. [SCWorld](https://www.scworld.com/)
-
+12. [RedPacket Security](https://www.redpacketsecurity.com/)
 
 ## Blogs
 
