@@ -22,6 +22,7 @@ Information should be open and easily accessible. Hence I bring you this reposit
 10. [IBM - Security Intelligence](https://securityintelligence.com/)
 11. [SCWorld](https://www.scworld.com/)
 12. [RedPacket Security](https://www.redpacketsecurity.com/)
+13. [LHN - Latest Hacking News](https://latesthackingnews.com/)
 
 ## Blogs
 
