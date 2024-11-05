@@ -23,6 +23,7 @@ Information should be open and easily accessible. Hence I bring you this reposit
 11. [SCWorld](https://www.scworld.com/)
 12. [RedPacket Security](https://www.redpacketsecurity.com/)
 13. [LHN - Latest Hacking News](https://latesthackingnews.com/)
+14. [infosec writeups](https://infosecwriteups.com/) - bug bounties, CTFs, Hack the box walkthroughs, hardware challenges, and real-life encounters
 
 ## Blogs
 
