@@ -25,6 +25,7 @@ Information should be open and easily accessible. Hence I bring you this reposit
 13. [LHN - Latest Hacking News](https://latesthackingnews.com/)
 14. [infosec writeups](https://infosecwriteups.com/) - bug bounties, CTFs, Hack the box walkthroughs, hardware challenges, and real-life encounters
 15. [Reddit - InfoSecNews](https://www.reddit.com/r/InfoSecNews/)
+16. [The Cyber Express](https://thecyberexpress.com/)
 
 ## Blogs
 
