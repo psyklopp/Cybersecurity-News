@@ -27,6 +27,7 @@ Information should be open and easily accessible. Hence I bring you this reposit
 15. [Reddit - InfoSecNews](https://www.reddit.com/r/InfoSecNews/)
 16. [The Cyber Express](https://thecyberexpress.com/)
 17. [CISO Series](https://cisoseries.com/)
+18. [MalwareTips](https://malwaretips.com/)
 
 ## Blogs
 
