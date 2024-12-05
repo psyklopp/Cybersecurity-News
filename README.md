@@ -28,6 +28,7 @@ Information should be open and easily accessible. Hence I bring you this reposit
 16. [The Cyber Express](https://thecyberexpress.com/)
 17. [CISO Series](https://cisoseries.com/)
 18. [MalwareTips](https://malwaretips.com/)
+19. [Duo - Decipher](https://duo.com/decipher)
 
 ## Blogs
 
