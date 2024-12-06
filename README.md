@@ -25,10 +25,11 @@ Information should be open and easily accessible. Hence I bring you this reposit
 13. [LHN - Latest Hacking News](https://latesthackingnews.com/)
 14. [infosec writeups](https://infosecwriteups.com/) - bug bounties, CTFs, Hack the box walkthroughs, hardware challenges, and real-life encounters
 15. [Reddit - InfoSecNews](https://www.reddit.com/r/InfoSecNews/)
-16. [The Cyber Express](https://thecyberexpress.com/)
-17. [CISO Series](https://cisoseries.com/)
-18. [MalwareTips](https://malwaretips.com/)
-19. [Duo - Decipher](https://duo.com/decipher)
+16. [Reddit - Cybersecurity](https://www.reddit.com/r/cybersecurity/)
+17. [The Cyber Express](https://thecyberexpress.com/)
+18. [CISO Series](https://cisoseries.com/)
+19. [MalwareTips](https://malwaretips.com/)
+20. [Duo - Decipher](https://duo.com/decipher)
 
 ## Blogs
 
